@@ -1,0 +1,19 @@
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Временные файлы офисных приложений
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Локальные результаты проверки
+validation-report.txt
