@@ -81,6 +81,11 @@
 ├── docs/
 ├── m1-intro/
 ├── m2-sampling-and-da/
+├── m3-stat-assessment/
+├── m4-stat-hypotheses/
+├── m5-bayesian/
+├── m6-stat-predictive-models/
+├── m7-validation/
 ├── project/
 ├── exam/
 ├── methodical-guidelines/
@@ -89,8 +94,6 @@
 ├── team/
 └── other/
 ```
-
-Подробное дерево приведено в файле [`repository-tree.txt`](repository-tree.txt).
 
 ## 7. Порядок заполнения
 
